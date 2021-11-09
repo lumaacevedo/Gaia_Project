@@ -56,6 +56,8 @@ Además, el lenguaje que se puede usar es JavaScript, y el stack tecnológico a 
 -	GraphQL
 
 
-Integrantes
-Catherin Londoño Ramírez: Desarrollador, Scrum Master, Product Owner
+Integrantes:
+
+Catherin Londoño Ramírez: Desarrollador, Scrum Master, Product Owner.
+Nevis Bohorquez Barreto: Desarrollador, Scrum Master, Product Owner, Analista.
  
