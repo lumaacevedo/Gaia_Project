@@ -58,6 +58,6 @@ Además, el lenguaje que se puede usar es JavaScript, y el stack tecnológico a 
 
 Integrantes:
 
-Catherin Londoño Ramírez: Desarrollador, Scrum Master, Product Owner.
-Nevis Bohorquez Barreto: Desarrollador, Scrum Master, Product Owner, Analista.
+- Catherin Londoño Ramírez: Desarrollador, Scrum Master, Product Owner.
+- Nevis Bohorquez Barreto: Desarrollador, Scrum Master, Product Owner, Analista.
  
