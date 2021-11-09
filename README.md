@@ -57,5 +57,5 @@ Además, el lenguaje que se puede usar es JavaScript, y el stack tecnológico a 
 
 
 Integrantes
-
+Catherin Londoño Ramírez: Desarrollador, Scrum Master, Product Owner
  
